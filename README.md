@@ -15,3 +15,4 @@ Official logos of Senegalese schools, collected for a private sales presentation
 | Groupe Scolaire Keur Mame Ndawa | 8 | LOW-RES | logos/groupe-scolaire-keur-mame-ndawa/groupe-scolaire-keur-mame-ndawa_best.png | 140x118 | medium |
 | IPE Les Hirondelles | 9 | LOW-RES | logos/ipe-les-hirondelles/ipe-les-hirondelles_best.png | 142x115 | medium |
 | Institut Ulul Albab | 10 | FOUND | logos/institut-ulul-albab/institut-ulul-albab_best.png | 738x291 | medium |
+| Al Himma School | 11 | LOW-RES | logos/al-himma-school/al-himma-school_best.png | 380x167 | medium |
