@@ -16,3 +16,20 @@ Official logos of Senegalese schools, collected for a private sales presentation
 | IPE Les Hirondelles | 9 | LOW-RES | logos/ipe-les-hirondelles/ipe-les-hirondelles_best.png | 142x115 | medium |
 | Institut Ulul Albab | 10 | FOUND | logos/institut-ulul-albab/institut-ulul-albab_best.png | 738x291 | medium |
 | Al Himma School | 11 | LOW-RES | logos/al-himma-school/al-himma-school_best.png | 380x167 | medium |
+
+## Bonus
+
+| School | Status | File | Resolution | Confidence |
+|---|---|---|---|---|
+| Xippi School | FOUND | logos/xippi-school/xippi-school_best.png | 1069x1075 | high |
+| Cospal | NOT FOUND | - | - | - |
+| Cours privé Luminis | NOT FOUND | - | - | - |
+| Académie bilingue Bethel | NOT FOUND | - | - | - |
+| Dakar Success Academy | NOT FOUND | - | - | - |
+| International Bilingual School | NOT FOUND | - | - | - |
+| Al Qalam | NOT FOUND | - | - | - |
+| Daara Al Nourou Rahmati | NOT FOUND | - | - | - |
+| École d'excellence Le Protestant | NOT FOUND | - | - | - |
+| Institut Afia Cheikh Sidya | NOT FOUND | - | - | - |
+| Raising Khalifas | NOT FOUND | - | - | - |
+| Les Canaillous | NOT FOUND | - | - | - |
